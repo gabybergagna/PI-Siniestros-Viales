@@ -187,7 +187,7 @@
 
 <ul>
   <li>Correo Electrónico: gabrielabergagna@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/gabriela-bergagna/"></a></li>
+  [LinkedIn](https://www.linkedin.com/in/gabriela-bergagna/)
 
 </ul>
 
