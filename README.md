@@ -46,7 +46,7 @@ Gabriela Bergagna - DF21
   <li><strong>VICTIMAS:</strong> En esta tabla se encuentra información específica sobre las víctimas de los siniestros viales, incluyendo su edad, sexo, medio de transporte y el rol que desempeñaban durante el incidente.</li>
 </ul>
 
-<h3 id="etl">ETL</h3>
+<h3 id="etl">ETL (Exploración, Transformación y Carga) </h3>
 
 <p>En la fase inicial, se llevó a cabo el proceso de exploración, transformación y carga de datos en ambas tablas, Hechos y Víctimas, para prepararlos de manera óptima para el análisis:</p>
 
