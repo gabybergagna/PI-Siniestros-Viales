@@ -1,8 +1,6 @@
 # PROYECTO DE ANÁLISIS DE DATOS DE SINIESTROS VIALES EN LA CIUDAD DE BUENOS AIRES
 Gabriela Bergagna - DF21
 
-<img src="https://storage.googleapis.com/sigo-blog-production/2024/03/january-BLOG-15.jpg" alt="Imagen de muestra" width="90%">
-
 <h2>Tabla de Contenidos</h2>
 
 <ul>
