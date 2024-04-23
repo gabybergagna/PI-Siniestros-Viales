@@ -61,7 +61,7 @@ Gabriela Bergagna - DF21
   <li>Creación de una columna que clasifique a las víctimas en rangos etarios, con el fin de facilitar un análisis más detallado y específico.</li>
 </ol>
 
-<h3 id="eda">EDA</h3>
+<h3 id="eda">EDA (Análisis Exploratorio de datos) </h3>
 
 <p>Después de completar la limpieza de los tres conjuntos de datos, se llevó a cabo el Análisis Exploratorio de Datos (EDA). Este proceso implicó la elaboración de gráficos y visualizaciones con el objetivo de investigar y comprender las estadísticas, identificar valores atípicos y orientar investigaciones futuras.</p>
 
