@@ -141,24 +141,18 @@
 <h4>Contenidos de la Carpeta /notebooks</h4>
 <p>Esta carpeta contiene Jupyter Notebooks (.ipynb) con código completo y bien comentado. Aquí puedes encontrar diferentes secciones que detallan los procesos realizados:</p>
 
-<p><strong>ETL:</strong></p>
+<p><strong>Etl:</strong></p>
 
 <ul>
   <li>Este notebook documenta el paso a paso de las Extracciones, Transformaciones y Cargas de datos.</li>
   <li>Incluye información sobre el pre-procesado y la calidad del dato.</li>
 </ul>
 
-<p><strong>EDA:</strong></p>
+<p><strong>Eda:</strong></p>
 
 <ul>
-  <li>En este archivo, encontrarás el proceso de Analítica Predictiva y Prescriptiva de las diferentes variables en nuestro conjunto de datos.</li>
-</ul>
-
-<p><strong>KPI:</strong></p>
-
-<ul>
-  <li>Este notebook proporciona una especificación técnica del Indicador Clave de Desempeño (KPI).</li>
-  <li>Ofrece una visión general de los objetivos y particularidades del KPI.</li>
+  <li>En este archivo, encontrarás el proceso de Analítica Predictiva y Prescriptiva de las diferentes variables en nuestro conjunto de datos y también proporciona una especificación técnica del Indicador Clave de Desempeño (KPI)</li>
+   <li>Ofrece una visión general de los objetivos y particularidades del KPI.</li>
 </ul>
 
 <p>Cada notebook está diseñado para proporcionar una comprensión detallada de su respectivo proceso. Si tienes alguna pregunta o necesitas más detalles, no dudes en explorar los archivos correspondientes.</p>
@@ -168,29 +162,18 @@
 
 <p>Esta carpeta almacena los datasets tanto originales como resultantes después de los procesos de ETL y EDA. Aquí encontrarás las siguientes versiones de los datos:</p>
 
-<p><strong>homicidios y lesiones (Formato: xlsx):</strong></p>
+<p><strong>homicidios y comunas (Formato: xlsx):</strong></p>
 
 <ol>
   <li>Archivos que representan nuestras fuentes de datos originales.</li>
 </ol>
 
-<p><strong>homicidios_limpio y lesiones_limpio (Formato: csv):</strong></p>
+<p><strong>Siniestro_viales_limpio (Formato: csv):</strong></p>
 
 <ol start="2">
   <li>Archivos resultantes de la limpieza realizada durante el proceso de ETL.</li>
 </ol>
 
-<p><strong>siniestros (Formato: csv):</strong></p>
-
-<ol start="3">
-  <li>Archivo que integra todos los datos de siniestros viales, tanto fatales como no fatales.</li>
-</ol>
-
-<p><strong>provincias (Formato: csv):</strong></p>
-
-<ol start="4">
-  <li>Archivo utilizado para el KPI propuesto.</li>
-</ol>
 
 <p>Cada archivo en esta carpeta representa una versión específica de los datos en diferentes etapas de procesamiento. Si requieres más detalles sobre la estructura o contenido de alguno de estos conjuntos de datos, puedes explorar los archivos directamente.</p>
 
