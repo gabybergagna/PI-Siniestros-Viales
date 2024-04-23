@@ -37,7 +37,7 @@
 <h2 id="desarrollo">Desarrollo</h2>
 
 
-<p>El desarrollo del proyecto se basa en la Base de Datos de Víctimas Fatales en Siniestros Viales, disponible en formato Excel a través del siguiente <a href=https://docs.google.com/spreadsheets/d/1nq00jGIZHQ1RLSET43zKnUsMsoFb-pBg/edit#gid=1625530738>enlace</a>. Esta base de datos consta de dos tablas principales:</p>
+<p>El desarrollo del proyecto se basa en la Base de Datos de Víctimas Fatales en Siniestros Viales, disponible en formato Excel a través del siguiente <a href=https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales>enlace</a>. Esta base de datos consta de dos tablas principales:</p>
 
 <ul>
   <li><strong>HECHOS:</strong> Esta tabla proporciona información detallada sobre los siniestros viales, incluyendo la cantidad de víctimas y su relación temporal y espacial con el evento. Se registran datos como la ubicación del hecho, el día y la hora del incidente, entre otros. Además, se incluye información sobre los participantes involucrados en el siniestro.</li>
