@@ -1,5 +1,5 @@
 # PROYECTO DE ANÁLISIS DE DATOS DE SINIESTROS VIALES EN LA CIUDAD DE BUENOS AIRES
-<h2>Gabriela Bergagna - DF21<h2>
+<h3>Gabriela Bergagna - DF21<h3>
 
 <h2>Tabla de Contenidos</h2>
 
