@@ -30,7 +30,7 @@
 
 <h2 id="contexto">Contexto</h2>
 
-<p>En Argentina, los siniestros viales causan alrededor de 4.000 muertes al año, siendo la principal causa de muertes violentas en el país. En la Ciudad Autónoma de Buenos Aires, con una densa población de más de 3 millones de habitantes, se registraron 3.828 muertes fatales en siniestros viales solo en 2022.</p>
+<p>En Argentina, los siniestros viales causan alrededor de 4.000 muertes al año, siendo la principal causa de muertes violentas en el país. Entre 2018 y 2022, se registraron 19,630 muertes según el Sistema Nacional de Información Criminal, equivalente a 11 personas por día. En 2022, se contabilizaron 3,828 muertes. La probabilidad de morir en un siniestro vial es dos o tres veces mayor que en incidentes de inseguridad delictiva..</p>
 
 <p>Esta problemática, que presenta una alta probabilidad de fatalidad en comparación con otros eventos delictivos, es de suma importancia para las autoridades locales y requiere un análisis detallado y acciones preventivas adecuadas.</p>
 
